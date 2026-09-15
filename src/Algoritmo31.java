@@ -8,4 +8,7 @@ public class Algoritmo31 {
     return "Hello World GET!";
 
    }
+   public void printarNaTela(){
+    IO.println("Alo mundo! Esse printa!");
+   }
 }
